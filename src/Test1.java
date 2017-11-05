@@ -1,4 +1,6 @@
 
+// This program is to calculate the expression of arcsinh(0.5).
+
 public class Test1 {
   
   public static double calculatePowers(double x, int n) {
